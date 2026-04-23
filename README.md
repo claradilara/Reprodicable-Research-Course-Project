@@ -7,3 +7,5 @@ The link for dataset> https://www.kaggle.com/datasets/sazidthe1/data-science-sal
 
 
 Contributers> Dilara Ozdil,Eljan Abbaszada,Paula Gwanchele
+
+Python language will be used.
